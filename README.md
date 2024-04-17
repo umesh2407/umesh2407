@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🧋, I'm Umesh </h1>
+<h1 align="center">Hello 🧋, I'm Umesh Choudhary</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 - 📫 To reach me **choudharyumesh986@gmail.com**
