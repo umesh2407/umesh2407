@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Umesh!! </h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://umesh-port-folio.vercel.app/project](https://umesh-port-folio.vercel.app/project)
 - 📫 How to reach me: **choudharyumesh986@gmail.com**
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1WhxpfdFDKTmrmTxbD7Z8EOBkctlxIjCm/view?usp=sharing](https://drive.google.com/file/d/1WhxpfdFDKTmrmTxbD7Z8EOBkctlxIjCm/view?usp=sharing)
 
