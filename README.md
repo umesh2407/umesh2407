@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Umesh!! </h1>
+<h1 align="center">Hello 👋, I'm Umesh!</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 - 📫 How to reach me: **choudharyumesh986@gmail.com**
