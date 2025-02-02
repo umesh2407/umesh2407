@@ -2,7 +2,6 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 - 📫 How to reach me: **choudharyumesh986@gmail.com**
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1xrPhzoiM5Edk7wXDishGac67g-T6VbSv/view?usp=sharing](https://drive.google.com/file/d/1xrPhzoiM5Edk7wXDishGac67g-T6VbSv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
